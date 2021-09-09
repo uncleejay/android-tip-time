@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Joseph Cole-Showers/Documents/android_projects/TipTime/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Joseph Cole-Showers/Documents/android_projects/TipTime/app/src/main/res/drawable/ic_round_up.xml" value="0.290625" />
+        <entry key="..\:/Users/Joseph Cole-Showers/Documents/android_projects/TipTime/app/src/main/res/drawable/ic_service.xml" value="0.290625" />
+        <entry key="..\:/Users/Joseph Cole-Showers/Documents/android_projects/TipTime/app/src/main/res/drawable/ic_store.xml" value="0.290625" />
+        <entry key="..\:/Users/Joseph Cole-Showers/Documents/android_projects/TipTime/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Joseph Cole-Showers/Documents/android_projects/TipTime/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.290625" />
       </map>
     </option>
   </component>
